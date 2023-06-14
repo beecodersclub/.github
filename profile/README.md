@@ -1,4 +1,4 @@
-# 🐝 Nossa colmeaia 🐝
+# 🐝 Nossa Colmeia 🐝
 
 A BeeCoders é uma comunidade, formada por uma equipe de profissionais apaixonados, focada em transformar ideias em realidade. Acreditamos firmemente que as "ideias podem voar" e estamos dedicados a dar asas à inovação.
 
