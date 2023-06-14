@@ -4,9 +4,9 @@ A BeeCoders é uma comunidade, formada por uma equipe de profissionais apaixonad
 
 Cada membro da nossa equipe traz consigo um conjunto único de habilidades e uma paixão inigualável pelo desenvolvimento de software.
 
-### 👩‍ 💻Comunidade
+### 👩‍ 💻 Junte-se à nossa comunidade!
 
-Junte-se à nossa comunidade! Conecte-se com outros membros da comunidade Bee Coders.
+ Conecte-se com outros membros da comunidade Bee Coders. Envie uma solicitação através no nosso website: https://beecoders.club
 
 ### 🍿 Fun facts
 
