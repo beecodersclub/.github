@@ -6,7 +6,7 @@ Cada membro da nossa equipe traz consigo um conjunto único de habilidades e uma
 
 ### 👩‍ 💻Comunidade
 
-Junte-se à nossa comunidade! Estamos no Slack, onde você pode fazer perguntas, discutir nossos projetos e se conectar com outros membros da comunidade Bee Coders.
+Junte-se à nossa comunidade! Conecte-se com outros membros da comunidade Bee Coders.
 
 ### 🍿 Fun facts
 
