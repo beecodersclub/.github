@@ -8,5 +8,5 @@ Fazendo um bom commit
 - Link para problemas ou tickets relacionados: Se o seu commit estiver relacionado a um problema ou ticket específico, inclua um link para ele na mensagem do commit. Isso ajuda a entender o contexto por trás das mudanças.
 
 ## Links úteis:
-- [Conventional commits - Standard specification](https://www.conventionalcommits.org/pt-br/v1.0.0/)
-- [Open Commits - IA Assistent](https://github.com/di-sukharev/opencommit#setup-opencommit-as-a-cli)
+- [Conventional commits](https://www.conventionalcommits.org/pt-br/v1.0.0/) - Standard specification
+- [Open Commits](https://github.com/di-sukharev/opencommit#setup-opencommit-as-a-cli) - IA Assistent
